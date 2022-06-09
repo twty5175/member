@@ -17,3 +17,20 @@
 ![image](https://user-images.githubusercontent.com/89179991/172592847-3aacfe3b-e63f-4f63-8eea-7c0b53f3f6dd.png)<br>
 삭제 클릭 시<br>
 ![image](https://user-images.githubusercontent.com/89179991/172592925-ae1ae27a-7594-4147-b8a3-4a27f1b75cf0.png)<br>
+
+
+++ 추가
+수정 클릭 <br>
+![image](https://user-images.githubusercontent.com/89179991/172828417-6e30095c-36a2-42bd-a797-c3ef5c2b1238.png) <br>
+
+내용수정<br>
+![image](https://user-images.githubusercontent.com/89179991/172828583-10b8ff13-78ff-4ba7-9314-43c01eea2902.png)
+![image](https://user-images.githubusercontent.com/89179991/172828659-0ce2a779-8dc9-485b-b26a-d8e889eb1e91.png)<br>
+
+수정 완료<br>
+![image](https://user-images.githubusercontent.com/89179991/172828755-b8099dba-9d33-43a4-b06d-1548a126aa2c.png)<br>
+
+수정 된 후<br>
+![image](https://user-images.githubusercontent.com/89179991/172828836-7b3eeb1e-41d0-47bd-b585-5f07ba24ec83.png)
+
+
